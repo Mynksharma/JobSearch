@@ -1,0 +1,9 @@
+.banner-image{
+    background: url(../images/banner.jpg) no-repeat center center; background-size: cover;
+    padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+max-height:600px;
+height:500px;
+}
